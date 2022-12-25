@@ -1,0 +1,23 @@
+{
+  "name": "time-to-ms",
+  "version": "1.0.0",
+  "description": "A Time to Milliseconds Converter",
+  "main": "lib/time-to-ms",
+  "files": [
+    "lib",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ToxicGamerXD/time-to-ms.git"
+  },
+  "author": "ToxicGamerXD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ToxicGamerXD/time-to-ms/issues"
+  },
+  "homepage": "https://github.com/ToxicGamerXD/time-to-ms#readme"
+}
