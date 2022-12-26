@@ -5,8 +5,15 @@
 
 ## Installation
 
+### npm
+
 ```
 npm install @tgxd/time-to-ms
+```
+
+### git
+
+```
 git clone https://github.com/ToxicGamerXD/time-to-ms.git
 ```
 
